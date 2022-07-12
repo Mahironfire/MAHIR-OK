@@ -2,6 +2,6 @@
 #
 #
 ## command 
-###### $ git clone https://github.com/Mahironfire/Fire-clone
-###### $ cd Fire-clone
-###### $ python fire-ok.py
+##### git clone https://github.com/Mahironfire/Fire-clone
+##### cd Fire-clone
+#####  python fire-ok.py
