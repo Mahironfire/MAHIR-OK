@@ -416,7 +416,6 @@ class Main:
 		print(logo)
 		print("\n [1] File Cloning")
 		print(" [2] Public Cloning")
-	
 		print(" [3] 2009-10 Cloning")
 		print(" [4] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
@@ -425,11 +424,11 @@ class Main:
 			File()
 		if MAHIR in ["2", "02"]:
 			Public()
-		if MAHIR in ["3", "03"]:
+		if MAHIR in ["0", "0"]:
 			os.system("python Dump.py")
-		if MAHIR in ["4", "04"]:
+		if MAHIR in ["3", "03"]:
 			self.old()
-		if MAHIR in ["5", "05"]:
+		if MAHIR in ["4", "04"]:
 			self.old2()
 			exit()
 		else:
