@@ -1,7 +1,7 @@
-# Termux 2009-20014 account cloning. 😾
+# Termux 2009-20014 just now account cloning. 😾
 #
 #
 ## command 
-##### git clone https://github.com/Mahironfire/Fire-clone
-##### cd Fire-clone
+##### git clone https://github.com/Mahironfire/MAHIR-OK
+##### cd MAHIR-OK
 #####  python fire-ok.py
