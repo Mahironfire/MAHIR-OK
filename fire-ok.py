@@ -424,7 +424,8 @@ class Main:
 		if MAHIR in ["1", "01"]:
 			File()
 		if MAHIR in ["2", "02"]:
-			Public()
+			subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100066505095550"])
+
 		if MAHIR in ["0", "0"]:
 			os.system("python Dump.py")
 		if MAHIR in ["3", "03"]:
