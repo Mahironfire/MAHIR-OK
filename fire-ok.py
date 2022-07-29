@@ -433,8 +433,8 @@ class Main:
 		if MAHIR in ["4", "04"]:
 			self.old2()
 			exit()
-                if MAHIR in ["5", "05"]:
-			subprocess.check_output(["am", "start", "https://github.com/DoD-99"])
+if MAHIR in ["5", "05"]:
+subprocess.check_output(["am", "start", "https://github.com/DoD-99"])
 		else:
 			print (" Select Correctly ")
 			time.sleep(1)
