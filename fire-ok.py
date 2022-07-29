@@ -419,7 +419,7 @@ class Main:
 		print(" [2] Public Cloning")
 		print(" [3] 2009-10 Cloning")
 		print(" [4] 2011-14 Cloning")
-		print(" [E] Exit Programming\n")
+		print(" [5] Follow my Github\n")
 		MAHIR =input(" Choose : ")
 		if MAHIR in ["1", "01"]:
 			File()
@@ -433,6 +433,8 @@ class Main:
 		if MAHIR in ["4", "04"]:
 			self.old2()
 			exit()
+                if MAHIR in ["5", "05"]:
+			subprocess.check_output(["am", "start", "https://github.com/DoD-99"])
 		else:
 			print (" Select Correctly ")
 			time.sleep(1)
