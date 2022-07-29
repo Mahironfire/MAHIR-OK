@@ -2,7 +2,9 @@
 #
 #
 ## command 
-##### rm -rf MAHIR-OK
-##### git clone https://github.com/Mahironfire/MAHIR-OK
-##### cd MAHIR-OK
-#####  python fire-ok.py
+
+
+#### rm -rf MAHIR-OK
+#### git clone https://github.com/Mahironfire/MAHIR-OK
+#### cd MAHIR-OK
+####  python fire-ok.py
